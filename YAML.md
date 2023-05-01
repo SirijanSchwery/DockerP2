@@ -1,6 +1,6 @@
 # YAML Syntax 
 
-### WICHTIG: Alles was Code ist, ist schon mit Leerzeichen eingerückt und kann so 1 zu 1 in das YAML-File kopiert werden. Zum Schluss dieser Dokumentation folgt ein kompletter YAML-Code. Dieser ist ebenfalls richtig eingerückt. (von Herr Lux)
+### WICHTIG: Alles was Code ist, ist schon mit Leerzeichen eingerückt und kann so 1 zu 1 in das YAML-File kopiert werden. Zum Schluss dieser Dokumentation folgt ein kompletter YAML-Code. Dieser ist ebenfalls richtig eingerückt. (von Herr Lux) Wichtig immer in das Verzeicnis der Datei Navigieren damit Docker Compose ausgeführt werden kann.
 
 ### version: 
 ```
